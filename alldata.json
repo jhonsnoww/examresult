@@ -1,1 +1,264 @@
-{"data":"hello world"}
+{
+    "all": {
+        "2016": [
+            {
+                "name": "ရန်ကုန်တိုင်းဒေသကြီး +  နိုင်ငံခြား",
+                "url": "https://2016.myanmarexam.org/yangon.html"
+            },
+            {
+                "name": "မန္တလေးတိုင်းဒေသကြီး",
+                "url": "https://2016.myanmarexam.org/mandalay.html"
+            },
+            {
+                "name": "နေပြည်တော်",
+                "url": "https://2016.myanmarexam.org/naypyitaw.html"
+            },
+            {
+                "name": "ဧရာဝတီတိုင်းဒေသကြီး",
+                "url": "https://2016.myanmarexam.org/ayeyarwaddy.html"
+            },
+            {
+                "name": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+                "url": "https://2016.myanmarexam.org/sagaing.html"
+            },
+            {
+                "name": "မကွေးတိုင်းဒေသကြီး",
+                "url": "https://2016.myanmarexam.org/magway.html"
+            },
+            {
+                "name": "ပဲခူးတိုင်းဒေသကြီး",
+                "url": "https://2016.myanmarexam.org/bago.html"
+            },
+            {
+                "name": "တနင်္သာရီတိုင်းဒေသကြီး",
+                "url": "https://2016.myanmarexam.org/tanintharyi.html"
+            },
+            {
+                "name": "ကချင်ပြည်နယ်",
+                "url": "https://2016.myanmarexam.org/kachin.html"
+            },
+            {
+                "name": "ကယားပြည်နယ်",
+                "url": "https://2016.myanmarexam.org/kayah.html"
+            },
+            {
+                "name": "ကရင်ပြည်နယ်",
+                "url": "https://2016.myanmarexam.org/kayin.html"
+            },
+            {
+                "name": "ချင်းပြည်နယ်",
+                "url": "https://2016.myanmarexam.org/chin.html"
+            },
+            {
+                "name": "မွန်ပြည်နယ်",
+                "url": "https://2016.myanmarexam.org/mon.html"
+            },
+            {
+                "name": "ရခိုင်ပြည်နယ်",
+                "url": "https://2016.myanmarexam.org/yakhine.html"
+            },
+            {
+                "name": "ရှမ်းပြည်နယ်",
+                "url": "https://2016.myanmarexam.org/shan.html"
+            }
+        ],
+        "2017": [
+            {
+                "name": "ရန်ကုန်တိုင်းဒေသကြီး",
+                "url": "https://2017.myanmarexam.org/ygn.html"
+            },
+            {
+                "name": "မန္တလေးတိုင်းဒေသကြီး",
+                "url": "https://2017.myanmarexam.org/mdy.html"
+            },
+            {
+                "name": "နေပြည်တော်",
+                "url": "https://2017.myanmarexam.org/npw.html"
+            },
+            {
+                "name": "ဧရာဝတီတိုင်းဒေသကြီး",
+                "url": "https://2017.myanmarexam.org/ayy.html"
+            },
+            {
+                "name": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+                "url": "https://2017.myanmarexam.org/sgg.html"
+            },
+            {
+                "name": "မကွေးတိုင်းဒေသကြီး",
+                "url": "https://2017.myanmarexam.org/mgy.html"
+            },
+            {
+                "name": "ပဲခူးတိုင်းဒေသကြီး",
+                "url": "https://2017.myanmarexam.org/bgo.html"
+            },
+            {
+                "name": "တနင်္သာရီတိုင်းဒေသကြီး",
+                "url": "https://2017.myanmarexam.org/tni.html"
+            },
+            {
+                "name": "ကချင်ပြည်နယ်",
+                "url": "https://2017.myanmarexam.org/kcn.html"
+            },
+            {
+                "name": "ကယားပြည်နယ်",
+                "url": "https://2017.myanmarexam.org/kyh.html"
+            },
+            {
+                "name": "ကရင်ပြည်နယ်",
+                "url": "https://2017.myanmarexam.org/kyn.html"
+            },
+            {
+                "name": "ချင်းပြည်နယ်",
+                "url": "https://2017.myanmarexam.org/chn.html"
+            },
+            {
+                "name": "မွန်ပြည်နယ်",
+                "url": "https://2017.myanmarexam.org/mon.html"
+            },
+            {
+                "name": "ရခိုင်ပြည်နယ်",
+                "url": "https://2017.myanmarexam.org/rke.html"
+            },
+            {
+                "name": "ရှမ်းပြည်နယ်",
+                "url": "https://2017.myanmarexam.org/shn.html"
+            },
+            {
+                "name": "နိုင်ငံခြား",
+                "url": "https://dmey17.s3-ap-southeast-1.amazonaws.com/pdf/fgn/FGN-01.pdf"
+            }
+        ],
+        "2018": [
+            {
+                "name": "ရန်ကုန်တိုင်းဒေသကြီး",
+                "url": "https://2018.myanmarexam.org/ygn.html"
+            },
+            {
+                "name": "မန္တလေးတိုင်းဒေသကြီး",
+                "url": "https://2018.myanmarexam.org/mdy.html"
+            },
+            {
+                "name": "နေပြည်တော်",
+                "url": "https://2018.myanmarexam.org/npw.html"
+            },
+            {
+                "name": "ဧရာဝတီတိုင်းဒေသကြီး",
+                "url": "https://2018.myanmarexam.org/ayy.html"
+            },
+            {
+                "name": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+                "url": "https://2018.myanmarexam.org/sgg.html"
+            },
+            {
+                "name": "မကွေးတိုင်းဒေသကြီး",
+                "url": "https://2018.myanmarexam.org/mgy.html"
+            },
+            {
+                "name": "ပဲခူးတိုင်းဒေသကြီး",
+                "url": "https://2018.myanmarexam.org/bgo.html"
+            },
+            {
+                "name": "တနင်္သာရီတိုင်းဒေသကြီး",
+                "url": "https://2018.myanmarexam.org/tni.html"
+            },
+            {
+                "name": "ကချင်ပြည်နယ်",
+                "url": "https://2018.myanmarexam.org/kcn.html"
+            },
+            {
+                "name": "ကယားပြည်နယ်",
+                "url": "https://2018.myanmarexam.org/kyh.html"
+            },
+            {
+                "name": "ကရင်ပြည်နယ်",
+                "url": "https://2018.myanmarexam.org/kyn.html"
+            },
+            {
+                "name": "ချင်းပြည်နယ်",
+                "url": "https://2018.myanmarexam.org/chn.html"
+            },
+            {
+                "name": "မွန်ပြည်နယ်",
+                "url": "https://2018.myanmarexam.org/mon.html"
+            },
+            {
+                "name": "ရခိုင်ပြည်နယ်",
+                "url": "https://2018.myanmarexam.org/rke.html"
+            },
+            {
+                "name": "ရှမ်းပြည်နယ်",
+                "url": "https://2018.myanmarexam.org/shn.html"
+            },
+            {
+                "name": "နိုင်ငံခြား",
+                "url": "https://r18h5b54hrdss7tbksbdfhgg2523f34mv.s3.amazonaws.com/pdf/fgn/FGN-01.pdf"
+            }
+        ],
+        "2019": [
+            {
+                "name": "ရန်ကုန်တိုင်းဒေသကြီး",
+                "url": "https://2019.myanmarexam.org/ygn.html"
+            },
+            {
+                "name": "မန္တလေးတိုင်းဒေသကြီး",
+                "url": "https://2019.myanmarexam.org/mdy.html"
+            },
+            {
+                "name": "နေပြည်တော်",
+                "url": "https://2019.myanmarexam.org/npw.html"
+            },
+            {
+                "name": "ဧရာဝတီတိုင်းဒေသကြီး",
+                "url": "https://2019.myanmarexam.org/ayy.html"
+            },
+            {
+                "name": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+                "url": "https://2019.myanmarexam.org/sgg.html"
+            },
+            {
+                "name": "မကွေးတိုင်းဒေသကြီး",
+                "url": "https://2019.myanmarexam.org/mgy.html"
+            },
+            {
+                "name": "ပဲခူးတိုင်းဒေသကြီး",
+                "url": "https://2019.myanmarexam.org/bgo.html"
+            },
+            {
+                "name": "တနင်္သာရီတိုင်းဒေသကြီး",
+                "url": "https://2019.myanmarexam.org/tni.html"
+            },
+            {
+                "name": "ကချင်ပြည်နယ်",
+                "url": "https://2019.myanmarexam.org/kcn.html"
+            },
+            {
+                "name": "ကယားပြည်နယ်",
+                "url": "https://2019.myanmarexam.org/kyh.html"
+            },
+            {
+                "name": "ကရင်ပြည်နယ်",
+                "url": "https://2019.myanmarexam.org/kyn.html"
+            },
+            {
+                "name": "ချင်းပြည်နယ်",
+                "url": "https://2019.myanmarexam.org/chn.html"
+            },
+            {
+                "name": "မွန်ပြည်နယ်",
+                "url": "https://2019.myanmarexam.org/mon.html"
+            },
+            {
+                "name": "ရခိုင်ပြည်နယ်",
+                "url": "https://2019.myanmarexam.org/rke.html"
+            },
+            {
+                "name": "ရှမ်းပြည်နယ်",
+                "url": "https://2019.myanmarexam.org/shn.html"
+            },
+            {
+                "name": "နိုင်ငံခြား",
+                "url": "https://r19quhcpq9m4ww54ek968rnu3xp2kcff3v25.s3-ap-southeast-1.amazonaws.com/pdf/fgn/FGN-01.pdf"
+            }
+        ]
+    }
+}
